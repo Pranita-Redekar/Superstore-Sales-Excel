@@ -34,7 +34,7 @@ Because of this, it becomes difficult to:
 
 
 <h2><a class="anchor" id="dataset">Dataset</a></h2>
-<a href="https://github.com/Pranita-Redekar/Sales-Dashboard-Excel/blob/main/Sales%20Data.xlsx">Dataset View</a>
+<a href="https://github.com/Pranita-Redekar/Superstore-Sales-Excel/blob/main/Superstore%20Data.xlsx">Dataset View</a>
 
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
