@@ -1,9 +1,8 @@
 
 # 🧾 Superstore Sales Dashboard | Excel
+An interactive retail sales dashboard built in Excel to analyze region-wise, category-wise, and customer-wise performance, helping track sales trends, transactions, and quantity ordered for better business decisions.
 
 
-
----
 
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
@@ -14,7 +13,7 @@
 - <a href="#final-result">Result</a>
 - <a href="#author--contact">Author & Contact</a>
 
----
+
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
 The Super Store Sales Dashboard is an Excel-based project that helps analyze and understand sales data of a retail store.
