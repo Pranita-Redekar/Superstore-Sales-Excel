@@ -55,7 +55,7 @@ The dashboard includes:<br>
 -Monthly quantity ordered trend<br>
 -Top 5 cities by sales<br>
 -Category-wise and customer-type-wise performance<br>
-<a href="https://github.com/Pranita-Redekar/Sales-Dashboard-Excel/blob/main/Dashboard.png" >Dashboard View </a>
+<a href="https://github.com/Pranita-Redekar/Superstore-Sales-Excel/blob/main/Dashboard.png" >Dashboard View </a>
 
 
 <h2><a class="anchor" id="final-result"></a>Result</h2>
